@@ -1,0 +1,4 @@
+Python for DevOps
+The Kubernetes Book
+Kubernetes Cookbook
+Linux Bible
