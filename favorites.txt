@@ -1,6 +1,14 @@
+Movies:
 Avengers
 The boys
 Homeland
 The blacklist
 The good doctor
 Stranger things
+
+Books:
+Python for DevOps
+The Kubernetes Book
+Kubernetes Cookbook
+Linux Bible
+
